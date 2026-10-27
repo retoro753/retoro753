@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- ⚡ I’m currently working on ...
+<script src="https://tryhackme.com/badge/t/d4a4cde3424919f6bc2d7cb1007c822d0828bf0bd61197609c564adde8a68051bc7cf6f1ebbae7122aa64ebff69f0c56?theme=dark"></script>
 <!--
 **retoro753/retoro753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
